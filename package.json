@@ -1,0 +1,23 @@
+{
+  "name": "donationalerts-js",
+  "version": "1.0.10",
+  "description": "Donationalerts API integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ma10y/donationalerts.git"
+  },
+  "keywords": [
+    "donationalerts",
+    "api"
+  ],
+  "author": "Malloy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ma10y/donationalerts/issues"
+  },
+  "homepage": "https://github.com/Ma10y/donationalerts#readme"
+}
